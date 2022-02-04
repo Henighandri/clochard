@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "557528312855",
+    "project_id": "clochard2036",
+    "storage_bucket": "clochard2036.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:557528312855:android:f56c8fdd0ed268bc654052",
+        "android_client_info": {
+          "package_name": "com.example.clochard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "557528312855-rvkmnbsu27fi7qmascc9d9rf0crjgugq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6LSI_EXq3PhQoZUHr9kzhuhVXDAQ_kNc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "557528312855-rvkmnbsu27fi7qmascc9d9rf0crjgugq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
